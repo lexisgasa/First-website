@@ -1,0 +1,22 @@
+.header {
+    display: flex;
+    background-color: #1f2937;
+    padding: 10px;
+}
+
+.logolink {
+    flex: 2;
+    padding-left: 20px;
+}
+.logo {
+    width: 70px;
+}
+
+.headlinks {
+    display: flex;
+    flex: 1;
+    color: white;
+    font-size: 18px;
+    justify-content: space-evenly;
+    align-items: center;
+}
