@@ -128,3 +128,54 @@ width: 100%;
 .coffee {
     text-align: center;
 }
+
+/*  CONTAINER 4  */
+
+.container4 {
+    background-color: #632626;
+    height: 300px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+.container401 {
+    font-size: 25px;
+    margin-bottom: 10px;
+    color: #FFEDDB;
+    text-shadow:
+        0 0 1px #fff,
+        0 0 2px #fff,
+        0 0 5px #fff,
+        0 0 8px #ffa500,
+        0 0 15px #ffa500,
+        0 0 25px #ffa500,
+        0 0 40px #ffa500,
+        0 0 51px #ffa500;
+}
+
+.container401 div {
+    margin-bottom: 10px;
+}
+
+
+.container402 {
+    margin-left: 500px;
+    font-size: 20px;
+    font-style: oblique;
+    margin-bottom: 20px;
+    margin-right: 50px;
+    color: #FFEDDB;
+    text-shadow:
+    0 0 5px #ffa500,
+    0 0 8px #ffa500,
+    0 0 15px #ffa500,
+    0 0 32px #8b4513,
+    0 0 72px #8b4513,
+    0 0 82px #8b4513,
+    0 0 92px #8b4513,   
+    0 0 121px #8b4513;
+}
+
