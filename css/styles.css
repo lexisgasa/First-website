@@ -5,26 +5,23 @@ body {
 .container1 {
     display: flex;
     background-color: #1f2937;
-    padding: 5px 50px;
+    justify-content: space-around;
+    gap: 800px;
 }
 
-.logolink {
-    flex: 2;
-
-}
 .logo {
-    width: 70px;
+    width: 80px;
+    margin-left: 0px50px;
 }
 
 .headlinks {
     display: flex;
-    flex: 1;
     color: white;
     font-size: 18px;
     justify-content: center;
     align-items: center;
-    gap: 60px;
-    padding-left: 70px;
+    gap: 50px;
+    padding-left: 5px;
 }
 
 /* CONTAINER 2 */
@@ -231,4 +228,18 @@ width: 100%;
     box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
     font-size: 15px;
     font-weight: bold;
+}
+
+/* CONTAINER 6  */
+
+.container6 {
+    display: flex;
+    background-color: #1f2937;
+    padding: 10px 0px;
+    justify-content: center;
+}
+
+.url {
+color: white;
+text-decoration: none;
 }
