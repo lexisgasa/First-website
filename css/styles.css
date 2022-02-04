@@ -179,3 +179,56 @@ width: 100%;
     0 0 121px #8b4513;
 }
 
+
+/*  CONTAINER 5  */
+
+.container5 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
+    background-image: url(https://wallpaperaccess.com/download/lofi-girl-2223409);
+    border: 1px;
+}
+
+.container501 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 150px;
+    width: 800px;
+    gap: 50px;
+    border: 1px solid;
+    background-color: #E5B299;
+    border-radius: 30px;
+}
+
+.contact {
+    display: flex;
+    flex-direction: column;
+}
+
+.contct {
+    font-size: 25px;
+    font-weight: bold;
+    font-style: italic;
+    color: #402218;
+    font-family: "Annie Use Your Telescope";
+}
+
+.join {
+    font-size: 20px;
+    font-weight: bold;
+    font-style: italic;
+    color: #865439;
+    font-family: "Annie Use Your Telescope"; 
+}
+
+.button {
+    border-radius: 9px;
+    background-color: white;
+    padding: 15px 30px;
+    box-shadow: 0 10px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    font-size: 15px;
+    font-weight: bold;
+}
